@@ -29,6 +29,10 @@ npm run start
 
 Abrir [http://localhost:3000](http://localhost:3000) en el navegador.
 
+### Live demo
+
+Puedes visitar el siguiente enlace para ver la app funcionando: https://iurban-demo.vercel.app/
+
 ### Scripts Disponibles
 
 ```bash
