@@ -803,6 +803,12 @@ Configuración en `eslint.config.mjs` con reglas de Next.js y TypeScript.
 11. **Reviews**: Sistema de valoraciones (requiere backend)
 12. **Rutas turísticas**: Itinerarios recomendados
 
+### Posibles mejoras en infra (Backlog)
+
+1. **Dockerizar app**: Permitir que la app pueda desplegarse en un contenedor de docker, para facilitar su despliegue en diferentes entornos
+2. **Añadir cacheo por redis**: En caso de que el proyecto creciera y evolucionara a una aplicación de alto tráfico; utilizar un sistema de cache-handler para permitir almacenar datos de API / páginas estáticas en redis (u otro sistema de almacenamiento en memoria). Esto permitiría compartir datos entre contenedores en caso de despliegue en cloud.
+3. **Separación de contextos i18n**: Usar contextos separados para poder cargar bajo demanda sólo las cadenas de textos necesarias en cada componente dentro de la app, mejorando el tamaño de bundle y el rendimiento general de la aplicación.
+
 ---
 
 ## 📊 Decisiones y Trade-offs
