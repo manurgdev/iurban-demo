@@ -1,0 +1,65 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ha ocurrido un error",
+    "retry": "Reintentar",
+    "back": "Volver",
+    "noResults": "No se encontraron resultados",
+    "seeMore": "Ver más",
+    "seeDetail": "Ver detalle",
+    "addToFavorites": "Añadir a favoritos",
+    "removeFromFavorites": "Quitar de favoritos",
+    "search": "Buscar",
+    "noPointsOfInterestResults": "No se encontraron puntos de interés para mostrar."
+  },
+  "home": {
+    "title": "Madrid Turismo",
+    "metaDescription": "Planifica tu visita a Madrid. Descubre los mejores puntos de interés con nuestra guía turística interactiva.",
+    "pointsOfInterest": "Puntos de Interés",
+    "categories": "Categorías",
+    "searchPlaceholder": "¿Dónde quieres viajar?",
+    "heroTitle": "Planifica tu visita a Madrid",
+    "ctaButton": "Crea tu ruta personalizada con IA"
+  },
+  "agenda": {
+    "title": "Agenda",
+    "eventsCountText": "Hay {count} eventos disponibles el día",
+    "dayText": "{day} de {month}",
+    "noEventsText": "No hay eventos disponibles este día",
+    "previousMonth": "Mes anterior",
+    "nextMonth": "Mes siguiente",
+    "hasEventsText": " - tiene eventos",
+    "hasEventsLegend": "Con eventos",
+    "availableText": "Disponible",
+    "showMoreEventsText": "Ver más eventos ({count} restantes)"
+  },
+  "detail": {
+    "duration": "Duración",
+    "location": "Ubicación",
+    "schedule": "Horarios",
+    "price": "Precio",
+    "description": "Descripción",
+    "gallery": "Galería",
+    "category": "Categoría",
+    "backToHome": "Volver al inicio",
+    "closed": "Cerrado",
+    "alwaysOpen": "Abierto 24h",
+    "info": "Información",
+    "image": "Imagen"
+  },
+  "header": {
+    "home": "Inicio",
+    "language": "Idioma"
+  },
+  "accessibility": {
+    "mainNavigation": "Navegación principal",
+    "mainContent": "Contenido principal",
+    "pointImage": "Imagen de {name}",
+    "heroVideo": "Video promocional de la ciudad",
+    "closeMenu": "Cerrar menú",
+    "openMenu": "Abrir menú",
+    "languageSelector": "Selector de idioma",
+    "currentLanguage": "Idioma actual: Español",
+    "skipToMainContent": "Saltar al contenido principal"
+  }
+}

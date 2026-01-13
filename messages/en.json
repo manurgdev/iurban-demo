@@ -1,0 +1,65 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "back": "Back",
+    "noResults": "No results found",
+    "seeMore": "See more",
+    "seeDetail": "See detail",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "search": "Search",
+    "noPointsOfInterestResults": "No points of interest found."
+  },
+  "home": {
+    "title": "Madrid Tourism",
+    "metaDescription": "Plan your visit to Madrid. Discover the best points of interest with our interactive tourist guide.",
+    "pointsOfInterest": "Points of Interest",
+    "categories": "Categories",
+    "searchPlaceholder": "Where do you want to travel?",
+    "heroTitle": "Plan your visit to Madrid",
+    "ctaButton": "Create your personalized route with AI"
+  },
+  "agenda": {
+    "title": "Agenda",
+    "eventsCountText": "There are {count} events available on",
+    "dayText": "{month} {day}",
+    "noEventsText": "No events available on this day",
+    "previousMonth": "Previous month",
+    "nextMonth": "Next month",
+    "hasEventsText": " - has events",
+    "hasEventsLegend": "Has events",
+    "availableText": "Available",
+    "showMoreEventsText": "Show more events ({count} remaining)"
+  },
+  "detail": {
+    "duration": "Duration",
+    "location": "Location",
+    "schedule": "Schedule",
+    "price": "Price",
+    "description": "Description",
+    "gallery": "Gallery",
+    "category": "Category",
+    "backToHome": "Back to home",
+    "closed": "Closed",
+    "alwaysOpen": "Open 24h",
+    "info": "Information",
+    "image": "Image"
+  },
+  "header": {
+    "home": "Home",
+    "language": "Language"
+  },
+  "accessibility": {
+    "mainNavigation": "Main navigation",
+    "mainContent": "Main content",
+    "pointImage": "Image of {name}",
+    "heroVideo": "Promotional city video",
+    "closeMenu": "Close menu",
+    "openMenu": "Open menu",
+    "languageSelector": "Language selector",
+    "currentLanguage": "Current language: English",
+    "skipToMainContent": "Skip to main content"
+  }
+}
