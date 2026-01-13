@@ -20,7 +20,7 @@ interface PlaceStructuredDataProps {
  */
 export function WebsiteStructuredData({
   locale,
-  baseUrl = 'https://manurg.dev', // URL de la web, en la demo se usa una de ejemplo
+  baseUrl = 'https://iurban-demo.vercel.app', // URL de la web, en la demo se usa una de ejemplo
 }: WebsiteStructuredDataProps) {
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -119,7 +119,7 @@ export function PlaceStructuredData({
  */
 export function BreadcrumbStructuredData({
   items,
-  baseUrl = 'https://manurg.dev', // URL de la web, en la demo se usa una de ejemplo
+  baseUrl = 'https://iurban-demo.vercel.app', // URL de la web, en la demo se usa una de ejemplo
 }: {
   items: Array<{ name: string; href: string }>;
   baseUrl?: string;

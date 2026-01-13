@@ -43,7 +43,7 @@ export async function generateMetadata({
       default: messages.home?.title || 'Madrid Turismo',
     },
     description: messages.home?.metaDescription || 'Descubre Madrid',
-    metadataBase: new URL('https://manurg.dev'),
+    metadataBase: new URL('https://iurban-demo.vercel.app'),
     alternates: {
       canonical: `/${locale}`,
       languages: alternateLanguages,
